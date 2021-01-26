@@ -10,7 +10,7 @@ The modulation of functionally relevant amino acids in protein-protein complexes
 
 Sequence_Based_Methods --> Input and output files for SDPred, Multi-RELIEF, and Sequence Harmony
 
-Structure_Based_Methods --> Refined models of HADDOCK + residue-based HADDOCK energy energy analysis files + Molecular Dynamics interfacea output files
+Structure_Based_Methods --> Refined models of HADDOCK + residue-based HADDOCK energy files + Molecular Dynamics interfacea output files
 
 Validation_EvoEF1_Results --> Axl:Gas6 and Axl:Pros1 SDP-mutant models and scores by EvoEF1
 
