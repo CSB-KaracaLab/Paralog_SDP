@@ -1,0 +1,270 @@
+This is SeqHarmMulti.py 4.0b
+
+Webserver at http://www.ibi.vu.nl/programs/shmrwww/
+
+Please cite:
+	Bernd Brandt*, K. Anton Feenstra* and Jaap Heringa
+	"Multi-Harmony: detecting functional specificity from sequence alignment"
+	Nucl. Acids Res., 2010, submitted
+	* joint first authors.
+
+Calculating Sequence Harmony
+include end gaps; include unknown residues ('X')
+Found 15 sequences
+We now have 2 groups:
+group 1: 5 sequences	label: 1(5)
+1	1	P30530/1-102|GROUP:1
+2	2	Q00993/1-93|GROUP:1
+3	3	Q8VI99/1-103|GROUP:1
+4	4	A0A287A9T7/1-102|GROUP:1
+5	5	K7C711/1-102|GROUP:1
+group 2: 10 sequences	label: 2(10)
+6	1	Q06418/1-88|GROUP:2
+7	2	P55144/1-88|GROUP:2
+8	3	P55146/1-88|GROUP:2
+9	4	F1SSV9/1-99|GROUP:2
+10	5	K7AIT8/1-93|GROUP:2
+11	6	Q12866/1-106|GROUP:2
+12	7	Q60805/1-107|GROUP:2
+13	8	P57097/1-96|GROUP:2
+14	9	A0A287A2E8/1-96|GROUP:2
+15	10	A0A2I3SHV9/1-106|GROUP:2
+Generalized Harmonies with modified p log p for N groups
+Will do 100 randomizations of 2 groups [5, 10]:
+calculated 100 randomizations for position 0 out of 117 (0%)
+calculated 100 randomizations for position 1 out of 117 (0%)
+calculated 100 randomizations for position 2 out of 117 (1%)
+calculated 100 randomizations for position 3 out of 117 (2%)
+calculated 100 randomizations for position 4 out of 117 (3%)
+calculated 100 randomizations for position 5 out of 117 (4%)
+calculated 100 randomizations for position 6 out of 117 (5%)
+calculated 100 randomizations for position 7 out of 117 (6%)
+calculated 100 randomizations for position 8 out of 117 (6%)
+calculated 100 randomizations for position 9 out of 117 (7%)
+calculated 100 randomizations for position 10 out of 117 (8%)
+calculated 100 randomizations for position 11 out of 117 (9%)
+calculated 100 randomizations for position 12 out of 117 (10%)
+calculated 100 randomizations for position 13 out of 117 (11%)
+calculated 100 randomizations for position 14 out of 117 (12%)
+calculated 100 randomizations for position 15 out of 117 (12%)
+calculated 100 randomizations for position 16 out of 117 (13%)
+calculated 100 randomizations for position 17 out of 117 (14%)
+calculated 100 randomizations for position 18 out of 117 (15%)
+calculated 100 randomizations for position 19 out of 117 (16%)
+calculated 100 randomizations for position 20 out of 117 (17%)
+calculated 100 randomizations for position 21 out of 117 (18%)
+calculated 100 randomizations for position 22 out of 117 (18%)
+calculated 100 randomizations for position 23 out of 117 (19%)
+calculated 100 randomizations for position 24 out of 117 (20%)
+calculated 100 randomizations for position 25 out of 117 (21%)
+calculated 100 randomizations for position 26 out of 117 (22%)
+calculated 100 randomizations for position 27 out of 117 (23%)
+calculated 100 randomizations for position 28 out of 117 (24%)
+calculated 100 randomizations for position 29 out of 117 (25%)
+calculated 100 randomizations for position 30 out of 117 (25%)
+calculated 100 randomizations for position 31 out of 117 (26%)
+calculated 100 randomizations for position 32 out of 117 (27%)
+calculated 100 randomizations for position 33 out of 117 (28%)
+calculated 100 randomizations for position 34 out of 117 (29%)
+calculated 100 randomizations for position 36 out of 117 (31%)
+calculated 100 randomizations for position 37 out of 117 (31%)
+calculated 100 randomizations for position 38 out of 117 (32%)
+calculated 100 randomizations for position 39 out of 117 (33%)
+calculated 100 randomizations for position 40 out of 117 (34%)
+calculated 100 randomizations for position 41 out of 117 (35%)
+calculated 100 randomizations for position 42 out of 117 (36%)
+calculated 100 randomizations for position 43 out of 117 (37%)
+calculated 100 randomizations for position 44 out of 117 (37%)
+calculated 100 randomizations for position 45 out of 117 (38%)
+calculated 100 randomizations for position 46 out of 117 (39%)
+calculated 100 randomizations for position 47 out of 117 (40%)
+calculated 100 randomizations for position 48 out of 117 (41%)
+calculated 100 randomizations for position 49 out of 117 (42%)
+calculated 100 randomizations for position 50 out of 117 (43%)
+calculated 100 randomizations for position 52 out of 117 (44%)
+calculated 100 randomizations for position 53 out of 117 (45%)
+calculated 100 randomizations for position 56 out of 117 (48%)
+calculated 100 randomizations for position 57 out of 117 (49%)
+calculated 100 randomizations for position 58 out of 117 (50%)
+calculated 100 randomizations for position 59 out of 117 (50%)
+calculated 100 randomizations for position 60 out of 117 (51%)
+calculated 100 randomizations for position 61 out of 117 (52%)
+calculated 100 randomizations for position 62 out of 117 (53%)
+calculated 100 randomizations for position 63 out of 117 (54%)
+calculated 100 randomizations for position 64 out of 117 (55%)
+calculated 100 randomizations for position 65 out of 117 (56%)
+calculated 100 randomizations for position 66 out of 117 (56%)
+calculated 100 randomizations for position 68 out of 117 (58%)
+calculated 100 randomizations for position 69 out of 117 (59%)
+calculated 100 randomizations for position 70 out of 117 (60%)
+calculated 100 randomizations for position 71 out of 117 (61%)
+calculated 100 randomizations for position 72 out of 117 (62%)
+calculated 100 randomizations for position 73 out of 117 (62%)
+calculated 100 randomizations for position 74 out of 117 (63%)
+calculated 100 randomizations for position 75 out of 117 (64%)
+calculated 100 randomizations for position 76 out of 117 (65%)
+calculated 100 randomizations for position 77 out of 117 (66%)
+calculated 100 randomizations for position 78 out of 117 (67%)
+calculated 100 randomizations for position 79 out of 117 (68%)
+calculated 100 randomizations for position 80 out of 117 (68%)
+calculated 100 randomizations for position 81 out of 117 (69%)
+calculated 100 randomizations for position 82 out of 117 (70%)
+calculated 100 randomizations for position 83 out of 117 (71%)
+calculated 100 randomizations for position 84 out of 117 (72%)
+calculated 100 randomizations for position 85 out of 117 (73%)
+calculated 100 randomizations for position 86 out of 117 (74%)
+calculated 100 randomizations for position 87 out of 117 (75%)
+calculated 100 randomizations for position 88 out of 117 (75%)
+calculated 100 randomizations for position 89 out of 117 (76%)
+calculated 100 randomizations for position 90 out of 117 (77%)
+calculated 100 randomizations for position 91 out of 117 (78%)
+calculated 100 randomizations for position 94 out of 117 (81%)
+calculated 100 randomizations for position 96 out of 117 (82%)
+calculated 100 randomizations for position 98 out of 117 (84%)
+calculated 100 randomizations for position 100 out of 117 (86%)
+calculated 100 randomizations for position 101 out of 117 (87%)
+calculated 100 randomizations for position 102 out of 117 (87%)
+calculated 100 randomizations for position 103 out of 117 (88%)
+calculated 100 randomizations for position 104 out of 117 (89%)
+calculated 100 randomizations for position 105 out of 117 (90%)
+calculated 100 randomizations for position 106 out of 117 (91%)
+calculated 100 randomizations for position 107 out of 117 (92%)
+calculated 100 randomizations for position 108 out of 117 (93%)
+calculated 100 randomizations for position 109 out of 117 (93%)
+calculated 100 randomizations for position 111 out of 117 (95%)
+calculated 100 randomizations for position 112 out of 117 (96%)
+calculated 100 randomizations for position 113 out of 117 (97%)
+calculated 100 randomizations for position 114 out of 117 (98%)
+calculated 100 randomizations for position 115 out of 117 (99%)
+calculated 100 randomizations for position 116 out of 117 (100%)
+Done.
+fully conserved sites: 11 (zero entropy)
+Output Sequence Harmonies
+This is SeqHarmMulti.py 4.0b
+
+Webserver at http://www.ibi.vu.nl/programs/shmrwww/
+
+Please cite:
+	Bernd Brandt*, K. Anton Feenstra* and Jaap Heringa
+	"Multi-Harmony: detecting functional specificity from sequence alignment"
+	Nucl. Acids Res., 2010, submitted
+	* joint first authors.
+
+Alignment Position	Sequence Harmony	Z_scores	Total Entropy	1(5) Entropies	1(5) Consensus string	2(10) Entropies	2(10) Consensus string	
+1	0.891968	-1.52752523165	0.120043	0.310918	-p	0.0	-	
+2	0.848809	-0.0292418658384	0.342131	0.590436	P_k	0.30103	-P	
+3	0.302092	-2.04219081177	0.665903	1.0	-DGKR	0.447173	Q-e	
+4	0.54483	-1.2216243612	0.552581	0.827729	-TVG	0.447173	V-s	
+5	0.846922	0.549572215823	0.475258	0.827729	-AQT	0.447173	T-a	
+6	0.302092	-2.19361090523	0.665903	1.0	-PQRT	0.447173	S-a	
+7	0.746717	0.252128671277	0.465649	0.590436	A_e	0.530103	At_v	
+8	0.390013	-3.80669165782	0.381497	0.0	-	0.530103	Ga_e	
+9	0.830805	-1.33707390066	0.156094	0.0	-	0.265295	-s	
+10	0.830805	-1.009716717	0.156094	0.0	-	0.265295	-k	
+11	0.830805	-0.342581094958	0.19135	0.0	-	0.348225	-lp	
+12	0.830805	-1.54006587863	0.156094	0.0	-	0.265295	-l	
+13	0.302092	-2.87045770134	0.482067	0.590436	E_a	0.30103	-P	
+14	0.302092	-2.6069504001	0.598776	0.827729	-DVE	0.409691	P-r	
+15	0.0	-6.151645561	0.523803	0.590436	S_h	0.217322	Lv	
+16	0.0	-6.63196605334	0.383937	0.0	P	0.30103	AK	
+17	0.688722	-2.47859866387	0.207653	0.0	F	0.30103	FL	
+18	0.0	-5.7465207664	0.446068	0.0	V	0.447173	KMn	
+19	0.688722	-1.43785382744	0.253849	0.0	G	0.409691	HGn	
+20	0.0	-5.89657258989	0.476329	0.310918	Ns	0.30103	AT	
+21	0.688722	-1.6016245207	0.269784	0.0	P	0.447173	VPi	
+22	0.688722	-2.15587958157	0.207653	0.0	G	0.30103	GV	
+23	0.0	-4.71511025676	0.430133	0.0	N	0.409691	HKr	
+24	0.688722	-1.3094660902	0.269784	0.0	I	0.447173	LIm	
+25	0.688722	-1.47598519897	0.269784	0.0	T	0.447173	ITv	
+26	0.0	-6.17370228888	0.383937	0.0	G	0.30103	LV	
+27	0.0	-7.36958505519	0.255958	0.0	A	0.0	S	
+28	0.0	-6.63400102585	0.383937	0.0	R	0.30103	EQ	
+29	0.688722	-2.41519202665	0.207653	0.0	G	0.30103	GH	
+30	0.0	-6.12559740717	0.383937	0.0	L	0.30103	KQ	
+31	0.0	-3.90881434385	0.599312	0.310918	Tm	0.590309	Pdnsg	
+32	0.0	-10.896535855	0.255958	0.0	G	0.0	V	
+33	0.0	-8.23258449734	0.34835	0.310918	Ta	0.0	K	
+34	0.688722	-4.20373219301	0.207653	0.0	L	0.30103	FL	
+35	0.0	-8.60828665577	0.255958	0.0	R	0.0	N	
+36	1.0	nan	0.0	0.0	C	0.0	C	
+37	0.0	-7.74595392599	0.380219	0.418166	QE	0.0	S	
+38	0.0	-6.21326622889	0.383937	0.0	L	0.30103	IV	
+39	0.0	-5.18760219062	0.446068	0.0	Q	0.447173	NEs	
+40	0.390013	-3.70833256781	0.346241	0.0	V	0.447173	IGv	
+41	0.0	-5.24546952453	0.383937	0.0	Q	0.30103	-P	
+42	0.688722	-2.38178968882	0.207653	0.0	-	0.30103	-N	
+43	0.688722	-1.07975911894	0.29538	0.0	-	0.507379	I-tv	
+44	0.688722	-2.44420239776	0.207653	0.0	-	0.30103	-Y	
+45	0.0	-6.14984699082	0.383937	0.0	G	0.30103	MQ	
+46	0.763547	-1.88911960684	0.184783	0.0	E	0.292285	DE	
+47	0.0	-4.93844052427	0.492264	0.0	P	0.555834	DETs	
+48	0.688722	-1.54713421409	0.269784	0.0	P	0.447173	AP_	
+49	0.241723	-2.92412821489	0.465649	0.0	E	0.638764	GTDae	
+50	0.0	-9.70858090942	0.255958	0.0	V	0.0	I	
+51	0.275489	-2.49498295301	0.621521	0.827729	MTVH	0.447173	QSh	
+52	1.0	nan	0.0	0.0	W	0.0	W	
+53	0.0	-5.76976555669	0.446068	0.0	L	0.447173	VWm	
+54	0.0	-10.5155026256	0.255958	0.0	R	0.0	K	
+55	1.0	nan	0.0	0.0	D	0.0	D	
+56	1.0	nan	0.0	0.0	G	0.0	G	
+57	0.0	-5.79417555234	0.430133	0.0	Q	0.409691	AKt	
+58	0.302092	-4.13006713474	0.399006	0.310918	Iv	0.30103	EV	
+59	0.688722	-2.60388022626	0.207653	0.0	L	0.30103	LV	
+60	0.0	-5.55941903232	0.383937	0.0	E	0.30103	LQ	
+61	0.0	-6.14671229945	0.430133	0.0	L	0.409691	NGs	
+62	0.830805	-0.294477132853	0.19135	0.0	A	0.348225	Avl	
+63	0.0	-5.88711754967	0.383937	0.0	D	0.30103	-H	
+64	0.0	-4.95606047044	0.508198	0.418166	NS	0.30103	-H	
+65	0.0	-4.33302459936	0.446068	0.0	T	0.447173	S-a	
+66	0.0	-5.29058078022	0.383937	0.0	Q	0.30103	-I	
+67	0.688722	-1.15305519251	0.269784	0.0	T	0.447173	DTs	
+68	1.0	nan	0.0	0.0	Q	0.0	Q	
+69	0.506577	-2.8905219859	0.316405	0.0	V	0.447173	VFl	
+70	0.0	-7.1326656378	0.34835	0.0	P	0.217322	Ys	
+71	0.0	-6.62091327962	0.383937	0.0	L	0.30103	IP	
+72	0.0	-4.39088999489	0.446068	0.0	G	0.447173	PDs	
+73	0.390013	-2.58447406278	0.408371	0.0	E	0.593315	EIDV	
+74	0.0	-6.77421026855	0.383937	0.0	D	0.30103	ES	
+75	0.645984	-0.670383210427	0.475498	0.655459	GEW	0.447173	VEg	
+76	0.604184	-1.11157978216	0.337618	0.0	Q	0.555834	VTQh	
+77	0.0	-12.9684405263	0.255958	0.0	D	0.0	-	
+78	0.0	-7.79362825	0.380219	0.418166	ED	0.0	-	
+79	0.0	-9.38429180314	0.255958	0.0	W	0.0	-	
+80	0.0	-3.74432069735	0.622799	0.418166	IK	0.570591	AHSn	
+81	0.241723	-5.11722370853	0.368262	0.0	V	0.409691	IWv	
+82	0.0	-10.4105446161	0.255958	0.0	V	0.0	I	
+83	0.0	-6.7972475661	0.383937	0.0	S	0.30103	AG	
+84	0.0	-5.53121639941	0.457007	0.0	Q	0.472903	FSL	
+85	0.688722	-2.80231624636	0.207653	0.0	L	0.30103	FL	
+86	0.0	-9.00175352838	0.255958	0.0	R	0.0	S	
+87	0.688722	-2.72090678244	0.207653	0.0	I	0.30103	IL	
+88	0.4	-3.24217619407	0.452011	0.418166	TS	0.409691	TKa	
+89	0.763547	-2.6203674237	0.184783	0.418166	AS	0.0	S	
+90	0.0	-8.75968144664	0.31598	0.0	L	0.141182	Va	
+91	0.688722	-3.00633354155	0.207653	0.0	Q	0.30103	EQ	
+92	0.0	-9.66706583118	0.255958	0.0	L	0.0	R	
+93	1.0	nan	0.0	0.0	S	0.0	S	
+94	1.0	nan	0.0	0.0	D	0.0	D	
+95	0.546717	-2.93944887089	0.368262	0.418166	TA	0.30103	AN	
+96	1.0	nan	0.0	0.0	G	0.0	G	
+97	0.0	-3.70342459223	0.640843	0.655459	WEQ	0.447173	RSl	
+98	1.0	nan	0.0	0.0	Y	0.0	Y	
+99	0.0	-6.31189142026	0.430133	0.0	Q	0.409691	IWf	
+100	1.0	nan	0.0	0.0	C	0.0	C	
+101	0.0	-4.77413670229	0.578712	0.655459	ALM	0.30103	KQ	
+102	0.688722	-2.92548262386	0.207653	0.0	V	0.30103	MV	
+103	0.0	-5.00315279877	0.56352	0.655459	VFH	0.265295	Ke	
+104	0.0	-4.40299081409	0.446068	0.0	L	0.447173	IDv	
+105	0.445984	-3.155534008	0.394045	0.418166	GE	0.30103	GN	
+106	0.413233	-1.65041069937	0.510754	0.418166	HG	0.555834	EGNd	
+107	0.275489	-4.1501303357	0.472611	0.655459	KQR	0.217322	Er	
+108	0.688722	-2.21822285927	0.207653	0.0	T	0.30103	ET	
+109	0.0	-5.19505521605	0.492264	0.0	F	0.555834	KEIv	
+110	0.688722	-2.16556020114	0.253849	0.0	V	0.409691	IVt	
+111	1.0	nan	0.0	0.0	S	0.0	S	
+112	0.948101	0.766356044735	0.073306	0.0	-	0.141182	-q	
+113	0.948101	0.733799385705	0.073306	0.0	-	0.141182	-p	
+114	0.948101	0.717740562565	0.073306	0.0	-	0.141182	-v	
+115	0.948101	0.546535725	0.073306	0.0	-	0.141182	-w	
+116	0.948101	0.766356044735	0.073306	0.0	-	0.141182	-l	
+117	0.948101	0.766356044735	0.073306	0.0	-	0.141182	-t	

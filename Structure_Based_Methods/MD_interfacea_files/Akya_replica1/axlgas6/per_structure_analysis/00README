@@ -1,0 +1,7 @@
+# Count the defined salt bridges
+./hbond_for_barcode_plot.csh 81 299
+./hbond_for_barcode_plot.csh 85 304
+./hbond_for_barcode_plot.csh 85 302
+./hbond_for_barcode_plot.csh 48 457
+
+

@@ -1,0 +1,13 @@
+# Count the defined salt bridges
+./ionic_for_barcode_plot.csh 73 313
+./ionic_for_barcode_plot.csh 83 467
+./ionic_for_barcode_plot.csh 59 310
+./ionic_for_barcode_plot.csh 48 455
+./ionic_for_barcode_plot.csh 70 312
+./ionic_for_barcode_plot.csh 88 467
+./ionic_for_barcode_plot.csh 83 299
+./ionic_for_barcode_plot.csh 85 308
+./ionic_for_barcode_plot.csh 96 454
+./ionic_for_barcode_plot.csh 56 308
+./ionic_for_barcode_plot.csh 48 460
+./ionic_for_barcode_plot.csh 59 414

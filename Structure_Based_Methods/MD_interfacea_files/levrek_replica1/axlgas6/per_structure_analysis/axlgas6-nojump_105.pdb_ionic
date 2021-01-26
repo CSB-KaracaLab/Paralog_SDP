@@ -1,0 +1,7 @@
+   itype chain_a chain_b res_a res_b resid_a resid_b atom_a atom_b
+0  ionic       A       B   ARG   GLU     308      85    NH2    OE2
+1  ionic       A       B   LYS   GLU     312      70     NZ    OE1
+2  ionic       A       B   ARG   ASP     313      73     NE    OD1
+3  ionic       A       B   ARG   GLU     414      70    NH2    OE2
+4  ionic       A       B   ARG   ASP     467      88    NH2    OD2
+5  ionic       A       B   ASP   ARG     455      48    OD2    NH1

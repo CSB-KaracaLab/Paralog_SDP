@@ -1,0 +1,268 @@
+This is multiRelief.py 1.0b
+
+Webserver at http://www.ibi.vu.nl/programs/shmrwww/
+
+Please cite:
+	Bernd Brandt*, K. Anton Feenstra* and Jaap Heringa
+	"Multi-Harmony: detecting functional specificity from sequence alignment"
+	Nucl. Acids Res., 2010, submitted
+	* joint first authors.
+
+Calculating multi-Relief
+Found 15 sequences
+We now have 2 groups:
+group 1: 5 sequences	label: 1(5)
+1	1	P30530/1-102|GROUP:1
+2	2	Q00993/1-93|GROUP:1
+3	3	Q8VI99/1-103|GROUP:1
+4	4	A0A287A9T7/1-102|GROUP:1
+5	5	K7C711/1-102|GROUP:1
+group 2: 10 sequences	label: 2(10)
+6	1	Q06418/1-88|GROUP:2
+7	2	P55144/1-88|GROUP:2
+8	3	P55146/1-88|GROUP:2
+9	4	F1SSV9/1-99|GROUP:2
+10	5	K7AIT8/1-93|GROUP:2
+11	6	Q12866/1-106|GROUP:2
+12	7	Q60805/1-107|GROUP:2
+13	8	P57097/1-96|GROUP:2
+14	9	A0A287A2E8/1-96|GROUP:2
+15	10	A0A2I3SHV9/1-106|GROUP:2
+Calculating 105 pairwise distances
+Completed 0 out of 105 distance calculations (0%)
+Completed 3 out of 105 distance calculations (2%)
+Completed 6 out of 105 distance calculations (5%)
+Completed 10 out of 105 distance calculations (9%)
+Completed 15 out of 105 distance calculations (14%)
+Completed 21 out of 105 distance calculations (20%)
+Completed 28 out of 105 distance calculations (26%)
+Completed 36 out of 105 distance calculations (34%)
+Completed 45 out of 105 distance calculations (42%)
+Completed 55 out of 105 distance calculations (52%)
+Completed 66 out of 105 distance calculations (62%)
+Completed 78 out of 105 distance calculations (74%)
+Completed 91 out of 105 distance calculations (86%)
+Completed 105 out of 105 distance calculations (100%)
+Creating sequence indices
+Calculating relief weights
+comparing group 1; completed 1 out of 1 comparisons (100%)
+Will do 100 randomizations of 2 groups [5, 10]:
+calculated 0 out of 100 randomizations (0%)
+calculated 1 out of 100 randomizations (1%)
+calculated 2 out of 100 randomizations (2%)
+calculated 3 out of 100 randomizations (3%)
+calculated 4 out of 100 randomizations (4%)
+calculated 5 out of 100 randomizations (5%)
+calculated 6 out of 100 randomizations (6%)
+calculated 7 out of 100 randomizations (7%)
+calculated 8 out of 100 randomizations (8%)
+calculated 9 out of 100 randomizations (9%)
+calculated 10 out of 100 randomizations (10%)
+calculated 11 out of 100 randomizations (11%)
+calculated 12 out of 100 randomizations (12%)
+calculated 13 out of 100 randomizations (13%)
+calculated 14 out of 100 randomizations (14%)
+calculated 15 out of 100 randomizations (15%)
+calculated 16 out of 100 randomizations (16%)
+calculated 17 out of 100 randomizations (17%)
+calculated 18 out of 100 randomizations (18%)
+calculated 19 out of 100 randomizations (19%)
+calculated 20 out of 100 randomizations (20%)
+calculated 21 out of 100 randomizations (21%)
+calculated 22 out of 100 randomizations (22%)
+calculated 23 out of 100 randomizations (23%)
+calculated 24 out of 100 randomizations (24%)
+calculated 25 out of 100 randomizations (25%)
+calculated 26 out of 100 randomizations (26%)
+calculated 27 out of 100 randomizations (27%)
+calculated 28 out of 100 randomizations (28%)
+calculated 29 out of 100 randomizations (29%)
+calculated 30 out of 100 randomizations (30%)
+calculated 31 out of 100 randomizations (31%)
+calculated 32 out of 100 randomizations (32%)
+calculated 33 out of 100 randomizations (33%)
+calculated 34 out of 100 randomizations (34%)
+calculated 35 out of 100 randomizations (35%)
+calculated 36 out of 100 randomizations (36%)
+calculated 37 out of 100 randomizations (37%)
+calculated 38 out of 100 randomizations (38%)
+calculated 39 out of 100 randomizations (39%)
+calculated 40 out of 100 randomizations (40%)
+calculated 41 out of 100 randomizations (41%)
+calculated 42 out of 100 randomizations (42%)
+calculated 43 out of 100 randomizations (43%)
+calculated 44 out of 100 randomizations (44%)
+calculated 45 out of 100 randomizations (45%)
+calculated 46 out of 100 randomizations (46%)
+calculated 47 out of 100 randomizations (47%)
+calculated 48 out of 100 randomizations (48%)
+calculated 49 out of 100 randomizations (49%)
+calculated 50 out of 100 randomizations (50%)
+calculated 51 out of 100 randomizations (51%)
+calculated 52 out of 100 randomizations (52%)
+calculated 53 out of 100 randomizations (53%)
+calculated 54 out of 100 randomizations (54%)
+calculated 55 out of 100 randomizations (55%)
+calculated 56 out of 100 randomizations (56%)
+calculated 57 out of 100 randomizations (57%)
+calculated 58 out of 100 randomizations (58%)
+calculated 59 out of 100 randomizations (59%)
+calculated 60 out of 100 randomizations (60%)
+calculated 61 out of 100 randomizations (61%)
+calculated 62 out of 100 randomizations (62%)
+calculated 63 out of 100 randomizations (63%)
+calculated 64 out of 100 randomizations (64%)
+calculated 65 out of 100 randomizations (65%)
+calculated 66 out of 100 randomizations (66%)
+calculated 67 out of 100 randomizations (67%)
+calculated 68 out of 100 randomizations (68%)
+calculated 69 out of 100 randomizations (69%)
+calculated 70 out of 100 randomizations (70%)
+calculated 71 out of 100 randomizations (71%)
+calculated 72 out of 100 randomizations (72%)
+calculated 73 out of 100 randomizations (73%)
+calculated 74 out of 100 randomizations (74%)
+calculated 75 out of 100 randomizations (75%)
+calculated 76 out of 100 randomizations (76%)
+calculated 77 out of 100 randomizations (77%)
+calculated 78 out of 100 randomizations (78%)
+calculated 79 out of 100 randomizations (79%)
+calculated 80 out of 100 randomizations (80%)
+calculated 81 out of 100 randomizations (81%)
+calculated 82 out of 100 randomizations (82%)
+calculated 83 out of 100 randomizations (83%)
+calculated 84 out of 100 randomizations (84%)
+calculated 85 out of 100 randomizations (85%)
+calculated 86 out of 100 randomizations (86%)
+calculated 87 out of 100 randomizations (87%)
+calculated 88 out of 100 randomizations (88%)
+calculated 89 out of 100 randomizations (89%)
+calculated 90 out of 100 randomizations (90%)
+calculated 91 out of 100 randomizations (91%)
+calculated 92 out of 100 randomizations (92%)
+calculated 93 out of 100 randomizations (93%)
+calculated 94 out of 100 randomizations (94%)
+calculated 95 out of 100 randomizations (95%)
+calculated 96 out of 100 randomizations (96%)
+calculated 97 out of 100 randomizations (97%)
+calculated 98 out of 100 randomizations (98%)
+calculated 99 out of 100 randomizations (99%)
+Output multi-Relief weights
+Alignment Position	multi-Relief Weights	Support Positive	Support Negative	Z_scores	1(5) Consensus string	2(10) Consensus string	
+1	-0.1	0.0	1.0	-1.15241206915	-p	-	
+2	-0.283333333333	0.0	1.0	-1.21700507614	P_k	-P	
+3	-0.2	0.0	1.0	-0.983591924467	-DGKR	Q-e	
+4	-0.05	0.0	1.0	-0.212838691079	-TVG	V-s	
+5	-0.3	0.0	1.0	-1.12678940654	-AQT	T-a	
+6	-0.2	0.0	1.0	-0.983591924467	-PQRT	S-a	
+7	0.0166666666667	1.0	0.0	0.00546749500526	A_e	At_v	
+8	0.65	1.0	0.0	4.78860361374	-	Ga_e	
+9	-0.1	0.0	1.0	-0.859064180592	-	-s	
+10	-0.1	0.0	1.0	-0.859064180592	-	-k	
+11	-0.1	0.0	1.0	-1.54730582391	-	-lp	
+12	-0.1	0.0	1.0	-0.859064180592	-	-l	
+13	0.516666666667	1.0	0.0	2.64144927037	E_a	-P	
+14	0.3	1.0	0.0	1.43133462879	-DVE	P-r	
+15	0.7	1.0	0.0	3.49557228818	S_h	Lv	
+16	1.0	1.0	0.0	6.55084296942	P	AK	
+17	0.75	1.0	0.0	4.82432525866	F	FL	
+18	0.75	1.0	0.0	4.44073779179	V	KMn	
+19	0.15	1.0	0.0	1.34234492669	G	HGn	
+20	0.9	1.0	0.0	4.45379710849	Ns	AT	
+21	0.25	1.0	0.0	1.54843679946	P	VPi	
+22	0.75	1.0	0.0	4.82432525866	G	GV	
+23	0.9	1.0	0.0	5.43354274241	N	HKr	
+24	0.75	1.0	0.0	3.45710365713	I	LIm	
+25	0.25	1.0	0.0	1.54843679946	T	ITv	
+26	1.0	1.0	0.0	6.55084296942	G	LV	
+27	1.0	1.0	0.0	9.08191785659	A	S	
+28	1.0	1.0	0.0	6.55084296942	R	EQ	
+29	0.25	1.0	0.0	2.71156753514	G	GH	
+30	1.0	1.0	0.0	6.55084296942	L	KQ	
+31	0.65	1.0	0.0	3.93274756436	Tm	Pdnsg	
+32	1.0	1.0	0.0	9.08191785659	G	V	
+33	0.9	1.0	0.0	5.68955876966	Ta	K	
+34	0.25	1.0	0.0	2.71156753514	L	FL	
+35	1.0	1.0	0.0	9.08191785659	R	N	
+36	0.0	0.0	0.0	nan	C	C	
+37	0.933333333333	1.0	0.0	5.53536548563	QE	S	
+38	1.0	1.0	0.0	6.55084296942	L	IV	
+39	0.85	1.0	0.0	4.98299284828	Q	NEs	
+40	0.75	1.0	0.0	4.23474544867	V	IGv	
+41	1.0	1.0	0.0	6.55084296942	Q	-P	
+42	0.25	1.0	0.0	2.71156753514	-	-N	
+43	0.15	1.0	0.0	1.34339741088	-	I-tv	
+44	0.25	1.0	0.0	2.71156753514	-	-Y	
+45	1.0	1.0	0.0	6.55084296942	G	MQ	
+46	0.258333333333	1.0	0.0	1.38061819515	E	DE	
+47	0.85	1.0	0.0	3.69071282585	P	DETs	
+48	0.1	1.0	0.0	0.948363289549	P	AP_	
+49	0.75	1.0	0.0	3.6457003673	E	GTDae	
+50	1.0	1.0	0.0	9.08191785659	V	I	
+51	0.5	1.0	0.0	2.37552825418	MTVH	QSh	
+52	0.0	0.0	0.0	nan	W	W	
+53	1.0	1.0	0.0	4.61450409458	L	VWm	
+54	1.0	1.0	0.0	9.08191785659	R	K	
+55	0.0	0.0	0.0	nan	D	D	
+56	0.0	0.0	0.0	nan	G	G	
+57	0.9	1.0	0.0	5.65589260414	Q	AKt	
+58	0.7	1.0	0.0	3.48958478647	Iv	EV	
+59	0.75	1.0	0.0	4.82432525866	L	LV	
+60	1.0	1.0	0.0	6.55084296942	E	LQ	
+61	0.95	1.0	0.0	5.38240814337	L	NGs	
+62	0.283333333333	1.0	0.0	1.41223094877	A	Avl	
+63	1.0	1.0	0.0	6.55084296942	D	-H	
+64	0.966666666667	1.0	0.0	3.88580685764	NS	-H	
+65	0.85	1.0	0.0	4.98299284828	T	S-a	
+66	1.0	1.0	0.0	6.55084296942	Q	-I	
+67	0.75	1.0	0.0	3.45710365713	T	DTs	
+68	0.0	0.0	0.0	nan	Q	Q	
+69	0.483333333333	1.0	0.0	2.17309562591	V	VFl	
+70	1.0	1.0	0.0	4.75942673945	P	Ys	
+71	1.0	1.0	0.0	6.55084296942	L	IP	
+72	1.0	1.0	0.0	4.61450409458	G	PDs	
+73	0.9	1.0	0.0	3.50893333597	E	EIDV	
+74	1.0	1.0	0.0	6.55084296942	D	ES	
+75	0.65	1.0	0.0	2.44573628999	GEW	VEg	
+76	0.358333333333	1.0	0.0	1.92537520758	Q	VTQh	
+77	1.0	1.0	0.0	9.08191785659	D	-	
+78	0.966666666667	1.0	0.0	4.63595298307	ED	-	
+79	1.0	1.0	0.0	9.08191785659	W	-	
+80	0.833333333333	1.0	0.0	3.3914116161	IK	AHSn	
+81	0.8	1.0	0.0	4.57002281098	V	IWv	
+82	1.0	1.0	0.0	9.08191785659	V	I	
+83	1.0	1.0	0.0	6.55084296942	S	AG	
+84	1.0	1.0	0.0	3.91503519705	Q	FSL	
+85	0.25	1.0	0.0	2.71156753514	L	FL	
+86	1.0	1.0	0.0	9.08191785659	R	S	
+87	0.75	1.0	0.0	4.82432525866	I	IL	
+88	0.733333333333	1.0	0.0	3.45213943117	TS	TKa	
+89	0.416666666667	1.0	0.0	2.06758561765	AS	S	
+90	0.9	1.0	0.0	5.90059783819	L	Va	
+91	0.75	1.0	0.0	4.82432525866	Q	EQ	
+92	1.0	1.0	0.0	9.08191785659	L	R	
+93	0.0	0.0	0.0	nan	S	S	
+94	0.0	0.0	0.0	nan	D	D	
+95	0.383333333333	1.0	0.0	2.10253134467	TA	AN	
+96	0.0	0.0	0.0	nan	G	G	
+97	0.9	1.0	0.0	3.31864011643	WEQ	RSl	
+98	0.0	0.0	0.0	nan	Y	Y	
+99	0.9	1.0	0.0	5.32826015259	Q	IWf	
+100	0.0	0.0	0.0	nan	C	C	
+101	0.9	1.0	0.0	3.69335792822	ALM	KQ	
+102	0.25	1.0	0.0	2.71156753514	V	MV	
+103	0.9	1.0	0.0	3.7212594105	VFH	Ke	
+104	1.0	1.0	0.0	4.4813715292	L	IDv	
+105	0.733333333333	1.0	0.0	4.02454673757	GE	GN	
+106	0.5	1.0	0.0	2.16000210181	HG	EGNd	
+107	0.85	1.0	0.0	3.25454836599	KQR	Er	
+108	0.25	1.0	0.0	2.71156753514	T	ET	
+109	0.9	1.0	0.0	3.95507663963	F	KEIv	
+110	0.7	1.0	0.0	3.90455055317	V	IVt	
+111	0.0	0.0	0.0	nan	S	S	
+112	0.0	0.0	0.0	-0.148339448257	-	-q	
+113	0.0	0.0	0.0	-0.148339448257	-	-p	
+114	0.0	0.0	0.0	-0.148339448257	-	-v	
+115	0.0	0.0	0.0	-0.148339448257	-	-w	
+116	0.0	0.0	0.0	-0.148339448257	-	-l	
+117	0.0	0.0	0.0	-0.148339448257	-	-t	

@@ -1,0 +1,59 @@
+AXL-GAS6 (GAS6 to PROS1 conversion)
+-----------------------------------
+
+DDG     EvoEFscore mutations
+0.960 0.960 RB414N;
+1.870 1.870 RB313L;
+0.970 0.970 RB467N;
+0.640 0.640 DB455A;
+
+https://zhanglab.ccmb.med.umich.edu/SSIPe/output/SSIPE706/
+
+DDG     EvoEFscore mutations
+4.500 4.500 RB414N,RB313L,RB467L,DB455A;
+
+https://zhanglab.ccmb.med.umich.edu/SSIPe/output/SSIPE712/
+
+DDG     EvoEFscore mutations
+3.930 3.930 RB414A,RB313A,RB467A,DB455A;
+
+https://zhanglab.ccmb.med.umich.edu/SSIPe/output/SSIPE711/
+
+DDG     EvoEFscore mutations
+0.960 0.960 RB414A;
+1.360 1.360 RB313A;
+0.970 0.970 RB467A;
+0.640 0.640 DB455A;
+
+
+AXL-PROS1(PROS1 to GAS6 conversion)
+-----------------------------------
+
+DDG     EvoEFscore mutations
+-1.620 -1.620 NB128R;
+0.050 0.050 LB27R;
+-1.490 -1.490 NB182R;
+-0.960 -0.960 AB170D;
+
+https://zhanglab.ccmb.med.umich.edu/SSIPe/output/SSIPE713/
+
+DDG     EvoEFscore mutations
+-0.140 -0.140 NB128A,LB27A,NB182A,AB170A;
+
+https://zhanglab.ccmb.med.umich.edu/SSIPe/output/SSIPE715/
+
+DDG     EvoEFscore mutations
+-4.020 -4.020 NB128R,LB27R,NB182R,AB170D;
+
+https://zhanglab.ccmb.med.umich.edu/SSIPe/output/SSIPE714/
+
+DDG     EvoEFscore mutations
+-0.060 -0.060 NB128A;
+-0.070 -0.070 LB27A;
+-0.020 -0.020 NB182A;
+0.000 0.000 AB170A;
+
+https://zhanglab.ccmb.med.umich.edu/SSIPe/output/SSIPE717/
+
+How to interpret the results:
+“A strongly favarable mutation is usually defined as a mutation that has ΔΔG ≤ -1.5 kcal mol-1, while a strongly unfavarable mutation is usually defined as a mutation that has ΔΔG ≥ 1.5 kcal mol-1”

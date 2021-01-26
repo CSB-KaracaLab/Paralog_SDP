@@ -1,0 +1,16 @@
+    itype chain_a chain_b res_a res_b resid_a resid_b atom_a atom_b
+0   hbond       A       B   ARG   GLY     299      82     NE      O
+1   hbond       A       B   PHE   GLU     301      85      N    OE2
+2   hbond       A       B   SER   GLU     302      85      N    OE2
+3   hbond       A       B   SER   GLU     302      85     OG    OE1
+4   hbond       A       B   THR   GLU     304      85    OG1    OE2
+5   hbond       A       B   ARG   GLN     308      78      N      O
+6   hbond       A       B   ARG   GLN     308      78     NE    OE1
+7   hbond       A       B   ARG   GLN     308      78    NH2    OE1
+8   hbond       A       B   ARG   GLN     310      76      N      O
+9   hbond       A       B   LYS   SER     312      74      N      O
+10  hbond       A       B   LYS   ALA     312      72     NZ      O
+11  hbond       A       B   LYS   GLU     312      70     NZ      O
+12  hbond       A       B   LYS   SER     312      74      O      N
+13  hbond       A       B   ARG   GLN     310      76      O      N
+14  hbond       A       B   ARG   GLN     308      78      O      N
