@@ -1,6 +1,8 @@
-# Predicting the Specificity-Determining Positions of Paralogous Complexes
+# Predicting the Specificity- Determining Positions of Receptor Tyrosine Kinase Axl
 
 #### by Tülay Karakulak, Ahmet Sureyya Rifaioglu, João P.G.L.M. Rodrigues, Ezgi Karaca
+
+https://www.frontiersin.org/articles/10.3389/fmolb.2021.658906/full
 
 ## Background
 
